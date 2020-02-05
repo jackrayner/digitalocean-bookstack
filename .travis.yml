@@ -3,7 +3,7 @@ services:
 
 before_install:
 - docker pull hashicorp/terraform:0.12.20
-- docker run hashicorp/terraform:0.12.20
+- docker run -i -t hashicorp/terraform:0.12.20 terraform --version
 
 script:
 - terraform --version
