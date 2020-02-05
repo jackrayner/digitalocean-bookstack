@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/jackrayner/digitalocean-bookstack.svg?branch=master)](https://travis-ci.org/jackrayner/digitalocean-bookstack)
+
 # DigitalOcean BookStack Server
 
 This project is for deploying a basic [BookStack Server](bookstackapp.com) on DigitalOcean using Terraform. This project is still very much in its infancy so is subject to major changes.
